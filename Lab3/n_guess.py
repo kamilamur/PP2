@@ -1,4 +1,4 @@
-
+import random
 
 def guess_the_number():
     name = "KBTU"
